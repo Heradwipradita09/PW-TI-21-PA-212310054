@@ -1,0 +1,35 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800&display=swap");
+
+* {
+  font-family: "Poppins", "Roboto", "sans serif";
+  color: white;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+.jumbotron {
+  padding-top: 8rem;
+  background-color: #2e3440;
+}
+
+#portfolio {
+  background-color: #3b4252;
+}
+
+#portfolio .card {
+  background-color: #2e3440;
+}
+
+#about {
+  background-color: #2e3440;
+}
+
+#contact {
+  background-color: #3b4252;
+}
+
+footer {
+  background-color: #2e3440;
+}
